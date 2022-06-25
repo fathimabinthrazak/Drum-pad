@@ -1,0 +1,19 @@
+body {
+  font-family: 'Merriweather', serif;
+  background: white;
+  color: white;
+  text-align: center;
+  background-color:black;
+}
+button{
+  height: 100px;
+  width: 100px;
+  font-size:2vw;
+  border-radius:30px;
+}
+  div {
+  padding: 50px 50px 45px 50px;
+}
+    
+  
+}
